@@ -145,6 +145,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114000677385633796, guid: 28fdaedf686cb394ba208418f1942254,
         type: 3}
+      propertyPath: m_text
+      value: CONTROLES
+      objectReference: {fileID: 0}
+    - target: {fileID: 114000677385633796, guid: 28fdaedf686cb394ba208418f1942254,
+        type: 3}
       propertyPath: m_fontMaterial
       value: 
       objectReference: {fileID: 965614880}
@@ -175,6 +180,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114226646182521966, guid: 28fdaedf686cb394ba208418f1942254,
         type: 3}
+      propertyPath: m_text
+      value: VOLUME MUSIQUE
+      objectReference: {fileID: 0}
+    - target: {fileID: 114226646182521966, guid: 28fdaedf686cb394ba208418f1942254,
+        type: 3}
       propertyPath: m_havePropertiesChanged
       value: 1
       objectReference: {fileID: 0}
@@ -185,6 +195,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114275862507780362, guid: 28fdaedf686cb394ba208418f1942254,
         type: 3}
+      propertyPath: m_text
+      value: RETOUR
+      objectReference: {fileID: 0}
+    - target: {fileID: 114275862507780362, guid: 28fdaedf686cb394ba208418f1942254,
+        type: 3}
       propertyPath: m_fontMaterial
       value: 
       objectReference: {fileID: 2035867349}
@@ -205,6 +220,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114298404980850576, guid: 28fdaedf686cb394ba208418f1942254,
         type: 3}
+      propertyPath: m_text
+      value: RETOUR
+      objectReference: {fileID: 0}
+    - target: {fileID: 114298404980850576, guid: 28fdaedf686cb394ba208418f1942254,
+        type: 3}
       propertyPath: m_fontMaterial
       value: 
       objectReference: {fileID: 2035867349}
@@ -222,6 +242,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_isInputParsingRequired
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114341213288388032, guid: 28fdaedf686cb394ba208418f1942254,
+        type: 3}
+      propertyPath: m_text
+      value: RETOUR
       objectReference: {fileID: 0}
     - target: {fileID: 114341213288388032, guid: 28fdaedf686cb394ba208418f1942254,
         type: 3}
@@ -245,6 +270,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114461327402825228, guid: 28fdaedf686cb394ba208418f1942254,
         type: 3}
+      propertyPath: m_text
+      value: VOLUME MASTER
+      objectReference: {fileID: 0}
+    - target: {fileID: 114461327402825228, guid: 28fdaedf686cb394ba208418f1942254,
+        type: 3}
       propertyPath: m_havePropertiesChanged
       value: 1
       objectReference: {fileID: 0}
@@ -262,6 +292,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_isInputParsingRequired
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114595646391040606, guid: 28fdaedf686cb394ba208418f1942254,
+        type: 3}
+      propertyPath: m_text
+      value: VOLUME SFX
       objectReference: {fileID: 0}
     - target: {fileID: 114595646391040606, guid: 28fdaedf686cb394ba208418f1942254,
         type: 3}
@@ -295,14 +330,34 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114639535613268642, guid: 28fdaedf686cb394ba208418f1942254,
         type: 3}
+      propertyPath: m_text
+      value: QUITTER
+      objectReference: {fileID: 0}
+    - target: {fileID: 114639535613268642, guid: 28fdaedf686cb394ba208418f1942254,
+        type: 3}
       propertyPath: m_fontMaterial
       value: 
       objectReference: {fileID: 2035867349}
     - target: {fileID: 114639535613268642, guid: 28fdaedf686cb394ba208418f1942254,
         type: 3}
+      propertyPath: m_textAlignment
+      value: 65535
+      objectReference: {fileID: 0}
+    - target: {fileID: 114639535613268642, guid: 28fdaedf686cb394ba208418f1942254,
+        type: 3}
       propertyPath: m_sharedMaterial
       value: 
       objectReference: {fileID: 2035867349}
+    - target: {fileID: 114639535613268642, guid: 28fdaedf686cb394ba208418f1942254,
+        type: 3}
+      propertyPath: m_TextStyleHashCode
+      value: -1183493901
+      objectReference: {fileID: 0}
+    - target: {fileID: 114639535613268642, guid: 28fdaedf686cb394ba208418f1942254,
+        type: 3}
+      propertyPath: m_VerticalAlignment
+      value: 512
+      objectReference: {fileID: 0}
     - target: {fileID: 114639535613268642, guid: 28fdaedf686cb394ba208418f1942254,
         type: 3}
       propertyPath: m_havePropertiesChanged
@@ -335,6 +390,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114747391357335720, guid: 28fdaedf686cb394ba208418f1942254,
         type: 3}
+      propertyPath: m_text
+      value: CONTROLES
+      objectReference: {fileID: 0}
+    - target: {fileID: 114747391357335720, guid: 28fdaedf686cb394ba208418f1942254,
+        type: 3}
       propertyPath: m_havePropertiesChanged
       value: 1
       objectReference: {fileID: 0}
@@ -345,9 +405,24 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114755754567870664, guid: 28fdaedf686cb394ba208418f1942254,
         type: 3}
+      propertyPath: m_text
+      value: RECOMMENCER LE NIVEAU
+      objectReference: {fileID: 0}
+    - target: {fileID: 114755754567870664, guid: 28fdaedf686cb394ba208418f1942254,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 20.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 114755754567870664, guid: 28fdaedf686cb394ba208418f1942254,
+        type: 3}
       propertyPath: m_fontMaterial
       value: 
       objectReference: {fileID: 965614880}
+    - target: {fileID: 114755754567870664, guid: 28fdaedf686cb394ba208418f1942254,
+        type: 3}
+      propertyPath: m_textAlignment
+      value: 65535
+      objectReference: {fileID: 0}
     - target: {fileID: 114755754567870664, guid: 28fdaedf686cb394ba208418f1942254,
         type: 3}
       propertyPath: m_sharedMaterial
@@ -355,6 +430,16 @@ PrefabInstance:
       objectReference: {fileID: 965614880}
     - target: {fileID: 114755754567870664, guid: 28fdaedf686cb394ba208418f1942254,
         type: 3}
+      propertyPath: m_TextStyleHashCode
+      value: -1183493901
+      objectReference: {fileID: 0}
+    - target: {fileID: 114755754567870664, guid: 28fdaedf686cb394ba208418f1942254,
+        type: 3}
+      propertyPath: m_VerticalAlignment
+      value: 512
+      objectReference: {fileID: 0}
+    - target: {fileID: 114755754567870664, guid: 28fdaedf686cb394ba208418f1942254,
+        type: 3}
       propertyPath: m_havePropertiesChanged
       value: 1
       objectReference: {fileID: 0}
@@ -372,6 +457,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_isInputParsingRequired
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114979435033865820, guid: 28fdaedf686cb394ba208418f1942254,
+        type: 3}
+      propertyPath: m_text
+      value: PAUSE
+      objectReference: {fileID: 0}
+    - target: {fileID: 114979435033865820, guid: 28fdaedf686cb394ba208418f1942254,
+        type: 3}
+      propertyPath: m_textAlignment
+      value: 65535
+      objectReference: {fileID: 0}
+    - target: {fileID: 114979435033865820, guid: 28fdaedf686cb394ba208418f1942254,
+        type: 3}
+      propertyPath: m_TextStyleHashCode
+      value: -1183493901
+      objectReference: {fileID: 0}
+    - target: {fileID: 114979435033865820, guid: 28fdaedf686cb394ba208418f1942254,
+        type: 3}
+      propertyPath: m_VerticalAlignment
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 114979435033865820, guid: 28fdaedf686cb394ba208418f1942254,
         type: 3}
@@ -567,14 +672,17 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: 28fdaedf686cb394ba208418f1942254, type: 3}
 --- !u!21 &965614880
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Rajdhani-SemiBold SDF UIButton (Instance)
   m_Shader: {fileID: 4800000, guid: 68e6db2ebdc24f95958faec2be5558d6, type: 3}
-  m_ShaderKeywords: GLOW_ON MASK_SOFT
+  m_ValidKeywords:
+  - GLOW_ON
+  m_InvalidKeywords:
+  - MASK_SOFT
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -605,6 +713,7 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    m_Ints: []
     m_Floats:
     - _Ambient: 0.5
     - _Bevel: 0.5
@@ -669,14 +778,17 @@ Material:
   m_BuildTextureStacks: []
 --- !u!21 &1520285756
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Rajdhani-SemiBold SDF UIButton (Instance)
   m_Shader: {fileID: 4800000, guid: 68e6db2ebdc24f95958faec2be5558d6, type: 3}
-  m_ShaderKeywords: GLOW_ON MASK_SOFT
+  m_ValidKeywords:
+  - GLOW_ON
+  m_InvalidKeywords:
+  - MASK_SOFT
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -707,6 +819,7 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    m_Ints: []
     m_Floats:
     - _Ambient: 0.5
     - _Bevel: 0.5
@@ -771,14 +884,17 @@ Material:
   m_BuildTextureStacks: []
 --- !u!21 &2035867349
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Rajdhani-SemiBold SDF UIButton (Instance)
   m_Shader: {fileID: 4800000, guid: 68e6db2ebdc24f95958faec2be5558d6, type: 3}
-  m_ShaderKeywords: GLOW_ON MASK_SOFT
+  m_ValidKeywords:
+  - GLOW_ON
+  m_InvalidKeywords:
+  - MASK_SOFT
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -809,6 +925,7 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    m_Ints: []
     m_Floats:
     - _Ambient: 0.5
     - _Bevel: 0.5
